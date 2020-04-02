@@ -1,0 +1,29 @@
+h1{
+    color: green;
+    border-style: double;
+    border-width: 5px;
+    border-color: red;
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+    letter-spacing: 4px;
+    padding: 20px; 
+    margin: 15px;
+}
+h2{
+   background-color: blue;
+}
+img{ width:304px; 
+    height:228px; 
+    float:left;
+}
+p { text-indent:60px;
+    line-height: 1.5;
+    font-family: "Courier New", Times, Monospace; 
+    margin: 20px;
+}
+a{
+    color:pink;
+}
+a: vis
+
